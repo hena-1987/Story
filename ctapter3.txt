@@ -1,1 +1,1 @@
-This is my chapter 3, created with git.
+This is my chapter 3, created with git but now I am modifying it to see the branch ehaviou of git branch.
